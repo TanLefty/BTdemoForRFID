@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/build/intermediates/res/merged/debug/layout/devicelist.xml",
+        "source": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/src/main/res/layout/devicelist.xml"
+    },
+    {
+        "merged": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/build/intermediates/res/merged/debug/layout/devielist.xml",
+        "source": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/src/main/res/layout/devielist.xml"
+    },
+    {
+        "merged": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/tanyunjie/AndroidStudioProjects/BT_Demo11 2/app/src/main/res/layout/activity_main.xml"
+    }
+]
